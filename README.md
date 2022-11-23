@@ -9,7 +9,7 @@ split slide into chucks using generics
 ```
 package main
 import (     
-      split "[github.com/philiphil/split](http://github.com/Philiphil/split)"  
+      split "github.com/philiphil/split"  
  ) 
 
 func main() {     
